@@ -1,6 +1,6 @@
-# ACL 2023 Tutorial: Retrieval-based Language Models and Applications
+# ACL 2025 Tutorial: Eyetracking and NLP
 
-The code is adapted from the [Nerfies website](https://nerfies.github.io).
+The code is adapted from the [Nerfies website](https://nerfies.github.io) and [ACL Tutorial 2023: Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/).
 
 
 ## Website License
